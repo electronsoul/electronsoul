@@ -24,6 +24,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="60" alt="raspberrypi logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" height="60" alt="raspberrypi logo"  />
+  <img width="12" />
+  <img src="https://hackster.imgix.net/uploads/attachments/1703129/_cIY9zmjh0A.blob?auto=compress&w=900&h=675&fit=min&fm=jpg" height="60" alt="raspberrypi logo"  />
 </div>
 
 ###
