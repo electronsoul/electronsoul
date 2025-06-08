@@ -25,7 +25,7 @@
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" height="60" alt="raspberrypi logo"  />
   <img width="12" />
-  <img src="https://hackster.imgix.net/uploads/attachments/1703129/_cIY9zmjh0A.blob?auto=compress&w=900&h=675&fit=min&fm=jpg" height="60" alt="raspberrypi logo"  />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVKaKPh9ipG-10P-D215X5fVCAkegBEpdaDw&s" height="60" alt="raspberrypi logo"  />
 </div>
 
 ###
