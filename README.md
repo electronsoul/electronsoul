@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.iconscout.com/icon/free/png-256/free-linux-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-vol-4-pack-logos-icons-2944967.png" height="60" alt="linux logo"  />
+  <img src="https://cdn.pixabay.com/photo/2017/01/31/15/33/linux-2025130_1280.png" height="60" alt="linux logo"  />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/github/explore/7af95003139e68a3a54e382bb4f23a72836ef348/topics/altium-designer/altium-designer.png" height="60" alt="altiumdesigner logo"  />
   <img width="12" />
