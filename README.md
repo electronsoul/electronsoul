@@ -1,4 +1,4 @@
-<h1 align="center">Hey Visitor 👋What's Up?</h1>
+![image](https://github.com/user-attachments/assets/cf95d50f-a02e-44d3-bdb3-d69de6313fa1)<h1 align="center">Hey Visitor 👋What's Up?</h1>
 
 ###
 
@@ -23,9 +23,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="60" alt="raspberrypi logo"  />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" height="60" alt="raspberrypi logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" height="60" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVKaKPh9ipG-10P-D215X5fVCAkegBEpdaDw&s" height="60" alt="raspberrypi logo"  />
+  <img src="https://hackster.imgix.net/uploads/attachments/1703129/_cIY9zmjh0A.blob?auto=compress&w=900&h=675&fit=min&fm=jpg" height="60" alt="stm32cubeide logo"  />
+  <img width="12" />
+  <img src="https://platformio.gallerycdn.vsassets.io/extensions/platformio/platformio-ide/3.3.4/1736607344047/Microsoft.VisualStudio.Services.Icons.Default" height="60" alt="platformio logo"  />
+  <img width="12" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1Y7rnv3rFIgxF28eohT_axZ2DUiM9LjLxng&s" height="60" alt="espressif logo"  />
 </div>
 
 ###
